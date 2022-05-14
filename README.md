@@ -10,6 +10,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+
+### `yarn start`
+소스디렉토리 이동 cd D:\Front\react
+브라우저 : http://localhost:3000
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
